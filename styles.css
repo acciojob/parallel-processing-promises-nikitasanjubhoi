@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#loading {
+  font-weight: bold;
+  font-size: 18px;
+  margin: 10px 0;
+}
+
+#output img {
+  margin: 10px;
+  border: 2px solid #ccc;
+  border-radius: 4px;
+}
+
